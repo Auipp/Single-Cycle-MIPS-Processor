@@ -1,0 +1,45 @@
+# Xilinx ISE generated files
+*.bld
+*.cmd_log
+*.lso
+*.ngc
+*.ngd
+*.ngr
+*.prj
+*.stx
+*.syr
+*.xst
+*_envsettings.html
+*_isim_beh.exe
+*_isim_beh*.wdb
+*_map.map
+*_map.mrp
+*_ngdbuild.xrpt
+*_stx_beh.prj
+*_summary.html
+*_xst.xrpt
+*.stx
+*.xrpt
+*.wdb
+*.exe
+*.cmd
+fuse.log
+fuse.xmsgs
+fuseRelaunch.cmd
+isim.cmd
+isim.log
+xilinxsim.ini
+
+# Directories
+_ngo/
+_xmsgs/
+ipcore_dir/
+iseconfig/
+isim/
+xlnx_auto_0_xdb/
+xst/
+
+# Project files (optional: comment out if you want to track the ISE project)
+# *.gise
+# *.xise
+# webtalk_pn.xml
